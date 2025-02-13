@@ -1,1 +1,3 @@
 # TURTLE
+
+TURTLE is a Python library designed for data science and machine learning. It is a meaningful project aimed at helping me improve in this field and learn new concepts in my own way. Every piece of code will include a corresponding mathematical explanation. An important aspect to keep in mind is that this library will be built based on the knowledge I accumulate from O'Reilly's specialized books.
